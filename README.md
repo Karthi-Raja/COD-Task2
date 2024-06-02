@@ -9,11 +9,11 @@
 ![image](https://github.com/Karthi-Raja/COD-Task2/assets/93022237/365ba06d-1d81-4958-87b7-358b727909ab)
 
 Libraries Used:
- python: The primary programming language for data analysis
- pandas: Used for data manipulation and analysis.
- diff lib: to take the close match of Some value
- TfidfVectorizer: to convert text data to numeric
- cosine_similarity: to find the similarity score to compare to other values to the given value
+ - python: The primary programming language for data analysis
+ - pandas: Used for data manipulation and analysis.
+ - diff lib: to take the close match of Some value
+ - TfidfVectorizer: to convert text data to numeric
+ - cosine_similarity: to find the similarity score to compare to other values to the given value
 
 Developing an NLP application involves a comprehensive approach to analyzing and processing text data, transforming raw text into meaningful insights through various preprocessing techniques and advanced modeling. The process begins with data collection, where text data from sources such as social media, reviews, or articles is gathered.
 
